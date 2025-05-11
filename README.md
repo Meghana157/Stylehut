@@ -14,7 +14,7 @@ You can view the original design prototype here:
 [👉 View StyleHut on Figma](https://www.figma.com/design/zgoA4OkLoalVqnuqQ7S6em/StyleHut?node-id=0-1&t=GX9CF012w48BqNyA-1)
 
 ## 🛠️ Tech Stack
-- Figma (for design wireframes)
+- Figma 
 
 ## 🖼️ Screenshots
 
